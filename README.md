@@ -41,7 +41,7 @@ The following maps show the results of our work:
 ![Alt text](/Vacation_Itinerary/WeatherPy_travel_map.png "imagen4")
 
 #### Map and marker layer showing the choosen cities with hotels and weather conditions
-![Alt text](/Vacation_Itinerary/WeatherPy_travel_map_markers.png "imagen5")
+![Alt text](/Vacation_Itinerary/WeatherPy_travelmap_markers.png "imagen5")
 
 In the Vacation_Itinerary folder, we saved the Vacation_Itinerary.ipynb and some maps.
 

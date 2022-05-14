@@ -9,7 +9,9 @@ Our **purpose** was to collect and present data to tourists about weather condit
 The results of our work are in the Weather_Database, Vacation_Search, and Vacation_Intinerary folders.
 
 ## Resources
-**Data sources:** WeatherPy_vacation.csv, WeatherPy_Database.csv
+
+**Data sources:** WeatherPy_vacation.csv, WeatherPy_Database.csv.
+
 **Programming tools:** Python, Jupyter Notebook, Pandas, NumPy, CitiPy, SciPy, Requests, JSON, APIs.
 
 ## Results
@@ -19,7 +21,7 @@ The first part of our challenge was to create a CSV file about the weather condi
 
 ![Alt text](/Resources/1dataframe.png "imagen1")
 
-Finally, is important to say that in the Weather_Database folder, we can find the Jupyter Notebook file Weather_Dabase.ipynb and the dataset WeatherPy_Database.csv.
+In addition, is important to say that in the Weather_Database folder, we can find the Jupyter Notebook file Weather_Dabase.ipynb and the dataset WeatherPy_Database.csv.
 
 ### Deliverable 2: Create a Customer Travel Destinations Map
 
@@ -34,7 +36,7 @@ In the Vacation_Search folder, we can see the Vacation_Search.ipynb file, plus t
 
 ### Deliverable 3: Create a Travel Itinerary Map
 
-In the last part of the project,  we used the Google Directions API to create a travel Itinerary that presented the route between four cities in India. In addition, we created another marker layer map with a pop-up marker for each destination on the route.
+In the last part of the project, we used the Google Directions API to create a travel Itinerary that presented the route between four cities in India. In addition, we created another marker layer map with a pop-up marker for each destination on the route.
 The following maps show the results of our work:
 
 #### Itineray map with our choosen cities anda a route layer
